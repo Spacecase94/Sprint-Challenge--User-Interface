@@ -199,7 +199,7 @@ footer nav a {
     margin-bottom: 4%;
 }
 
-.top-middle-row {
+.top-row {
     display: flex;
 }
 
@@ -220,4 +220,32 @@ footer nav a {
 }
 .top-right-column img {
     width: 100%;
+}
+
+.middle-row {
+    display: flex;
+}
+
+.middle-left-column {
+    width: 100%;
+    border-bottom: 1px dashed black;
+    margin-right: 3%;
+    padding-bottom: 1%;
+}
+
+.middle-left-column img {
+    width: 100%;
+}
+
+.middle-right-column {
+    border-bottom: 1px dashed black;
+    margin-right: 3%;
+    padding-bottom: 1%;
+}
+.middle-right-column img {
+    width: 100%;
+}
+
+.footer-text {
+    margin: 5% 0%;
 }
