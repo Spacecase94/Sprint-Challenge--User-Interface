@@ -239,3 +239,21 @@ footer nav a {
 .footer-text {
   margin: 5% 0%;
 }
+
+/* Contact Page */
+.contact-us img{
+  width: 100%;
+}
+
+.contact-us h1 {
+  font-size: 220%;
+}
+
+.input-container {
+  display: flex;
+}
+.col1, .col2{
+  justify-content:space-around;
+  flex-direction: column;
+  margin-top: 20%;
+}
