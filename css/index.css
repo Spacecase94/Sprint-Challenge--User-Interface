@@ -198,3 +198,26 @@ footer nav a {
     border-bottom: 1px dashed black;
     margin-bottom: 4%;
 }
+
+.top-middle-row {
+    display: flex;
+}
+
+.top-left-column {
+    width: 100%;
+    border-bottom: 1px dashed black;
+    margin-right: 3%;
+    padding-bottom: 3%;
+}
+.top-left-column img {
+    width: 100%;
+}
+
+.top-right-column {
+    border-bottom: 1px dashed black;
+    margin-right: 3%;
+    padding-bottom: 3%;
+}
+.top-right-column img {
+    width: 100%;
+}
